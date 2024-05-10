@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417145599487",
+    "project_id": "pagoplus-fdef2",
+    "storage_bucket": "pagoplus-fdef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417145599487:android:768045964b34425283e3ca",
+        "android_client_info": {
+          "package_name": "com.example.pagoplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZPHMrl_kDFrnVPdR0hEC5dXZiOwuh1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

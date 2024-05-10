@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#F43636</color>
+    <color name="inpuEmail">#3F59B5</color>
+    <color name="inputPassword">#3F59B5</color>
+    <color name="btnIngresar">#273AA1</color>
+    <color name="primario">#D45858</color>
+    <color name="azul_claro">#6495ED</color>
+
+</resources>
